@@ -1,0 +1,22 @@
+{
+  "name": "background",
+  "version": "1.0.0",
+  "description": "Learning",
+  "main": "jscolor.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishankagg/Background.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishankagg/Background/issues"
+  },
+  "homepage": "https://github.com/ishankagg/Background#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
